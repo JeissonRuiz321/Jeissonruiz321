@@ -1,5 +1,5 @@
 ## ¡Hola,Que tal, soy Jeisson! 👋
-Un Desarrollador Frontend | Entusiasta de la Fotografía
+Soy Un Desarrollador Frontend | Entusiasta de la Fotografía.
 Mi objetivo principal es que la experiencia del usuario sea excelente al interactuar con una aplicación o sitio web. Me esfuerzo por crear interfaces que no solo cumplan con lo que el usuario necesita visualmente, sino que también funcionen a la perfección en su lógica interna. Para mí, el diseño es un lenguaje que conecto tanto a través de la fotografía como detrás de la pantalla.
 
 ## Tecnologías y herramientas:
